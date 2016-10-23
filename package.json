@@ -1,0 +1,19 @@
+{
+  "name": "react-redux-starter-kit-bruce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csibruce/react-redux-tester-bruce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csibruce/react-redux-tester-bruce/issues"
+  },
+  "homepage": "https://github.com/csibruce/react-redux-tester-bruce#readme"
+}
