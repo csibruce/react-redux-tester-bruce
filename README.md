@@ -13,3 +13,5 @@ mkdir src
 cd src
 
 touch index.html App.js main.js
+
+add gitignore 
